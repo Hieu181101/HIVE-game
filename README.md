@@ -31,3 +31,12 @@ Implement and building a HIVE boardgame from scratch with interactive UI and be 
 - CMPT 276 for providing the project framework and requirements.
 
 ## Look Through: 
+![freedom3](https://github.com/Hieu181101/HIVE-game/assets/135567323/80dd562f-9540-443a-ba7d-055d2ad2945f)
+
+![grasshoppermove](https://github.com/Hieu181101/HIVE-game/assets/135567323/020a9a08-6386-4dbd-adf2-8e6df124143b)
+
+![Screenshot (223)](https://github.com/Hieu181101/HIVE-game/assets/135567323/4eefd129-498b-430b-bd1f-64b7787bc213)
+
+
+
+

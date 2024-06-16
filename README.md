@@ -35,7 +35,8 @@ Implement and building a HIVE boardgame from scratch with interactive UI and be 
 
 ![grasshoppermove](https://github.com/Hieu181101/HIVE-game/assets/135567323/020a9a08-6386-4dbd-adf2-8e6df124143b)
 
-![Screenshot (223)](https://github.com/Hieu181101/HIVE-game/assets/135567323/4eefd129-498b-430b-bd1f-64b7787bc213)
+![Screenshot (223)](https://github.com/Hieu181101/HIVE-game/assets/135567323/8183b938-284c-43c7-b09d-556bebb046c8)
+
 
 
 

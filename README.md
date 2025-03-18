@@ -8,7 +8,7 @@ Implement and building a HIVE boardgame from scratch with interactive UI and be 
 
 ## The Game
 
-- **Tiles and Abilities**: The game consists of different types of insect tiles, each with unique abilities and movement patterns. For example, the Queen Bee can move one space at a time, while other insects like beetles, grasshoppers, ants, and spiders have their own specialized movement abilities.
+- **Tiles and Abilities**: The game consists of different types of insect tiles, each with unique abilities and movement patterns. For example, the Queen Bee can move one space at a time, while other insects like beetles, grasshoppers, ants, and spiders have their own specialized movement abilities.,
   
 - **Placement and Movement**: The game begins with an empty board, and players take turns placing their tiles. Once placed, tiles can be moved to new positions, but they must always remain connected to the hive. Movement options vary for each insect type, allowing for strategic positioning and encircling the opponent’s pieces.
   
